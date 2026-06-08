@@ -2,7 +2,7 @@
 
 ## Student Information
 
-**Name:** Swaraj
+**Name:** Swaraj Jadhav
 
 ---
 
